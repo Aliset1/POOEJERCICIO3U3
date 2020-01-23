@@ -1,0 +1,36 @@
+{
+  "numero": "43b2b285-8178-439e-97ae-1441e803e9fe",
+  "estudiante": {
+    "nombre": "Andres",
+    "apellido": "Rivera",
+    "cedula": "0504129925"
+  },
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 11,
+    "minute": 21,
+    "second": 17
+  },
+  "estado": "Registrado",
+  "curso": {
+    "titulo": "Música ",
+    "costo": 30.0
+  },
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 23,
+        "second": 52
+      },
+      "valor": 13.4,
+      "unidad": "I"
+    }
+  ],
+  "promedio": 13.4
+}

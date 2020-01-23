@@ -1,0 +1,36 @@
+{
+  "numero": "a44ab6dc-ea47-46b9-a8e2-61a6aff49dc2",
+  "estudiante": {
+    "nombre": "Paola",
+    "apellido": "Vargas",
+    "cedula": "050412989"
+  },
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 11,
+    "minute": 21,
+    "second": 24
+  },
+  "estado": "Registrado",
+  "curso": {
+    "titulo": "Carpintería ",
+    "costo": 45.0
+  },
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 24,
+        "second": 52
+      },
+      "valor": 10.2,
+      "unidad": "I"
+    }
+  ],
+  "promedio": 10.2
+}

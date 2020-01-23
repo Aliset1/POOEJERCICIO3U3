@@ -1,0 +1,36 @@
+{
+  "numero": "341f6ccf-43be-4d2f-a293-e29d6b61c1a3",
+  "estudiante": {
+    "nombre": "Macarena",
+    "apellido": "Armas",
+    "cedula": "05041263"
+  },
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 11,
+    "minute": 21,
+    "second": 37
+  },
+  "estado": "Registrado",
+  "curso": {
+    "titulo": "Música ",
+    "costo": 30.0
+  },
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 24,
+        "second": 21
+      },
+      "valor": 20.0,
+      "unidad": "I"
+    }
+  ],
+  "promedio": 20.0
+}

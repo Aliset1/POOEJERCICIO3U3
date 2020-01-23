@@ -1,0 +1,12 @@
+[
+  {"titulo":"Inglés", "costo": 80, "Descripcion":"BA1-CA3"},
+ {"titulo":"Matemática Superior ", "costo": 40, "Descripcion":"Calculo Diferencial e      Integral"},
+   {"titulo":"Música ", "costo": 30, "Descripcion":"Guitarra y Violin"},
+{"titulo":"Carpintería ", "costo": 45, "Descripcion":"Mueblería"},
+ {"titulo":"Ballet ", "costo": 50, "Descripcion":"Basico ,Medio ,Avanzado"},
+ {"titulo":"Programación Orientado a Objetos ", "costo": 100, "Descripcion":"Clases y objetos"}
+
+
+
+ 
+]

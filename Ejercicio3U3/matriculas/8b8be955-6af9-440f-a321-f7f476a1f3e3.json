@@ -1,0 +1,36 @@
+{
+  "numero": "8b8be955-6af9-440f-a321-f7f476a1f3e3",
+  "estudiante": {
+    "nombre": "Luis",
+    "apellido": "Velasco",
+    "cedula": "0504126369"
+  },
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 11,
+    "minute": 21,
+    "second": 31
+  },
+  "estado": "Registrado",
+  "curso": {
+    "titulo": "Matemática Superior ",
+    "costo": 40.0
+  },
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 23,
+        "second": 4
+      },
+      "valor": 20.0,
+      "unidad": "I"
+    }
+  ],
+  "promedio": 20.0
+}

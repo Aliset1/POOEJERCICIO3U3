@@ -1,0 +1,36 @@
+{
+  "numero": "81ddefbc-e03b-4ee4-a8b2-7d634b591998",
+  "estudiante": {
+    "nombre": "Adriana",
+    "apellido": "Vargas",
+    "cedula": "0504129925"
+  },
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 11,
+    "minute": 21,
+    "second": 3
+  },
+  "estado": "Registrado",
+  "curso": {
+    "titulo": "Inglés",
+    "costo": 80.0
+  },
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 24,
+        "second": 9
+      },
+      "valor": 14.4,
+      "unidad": "I"
+    }
+  ],
+  "promedio": 14.4
+}

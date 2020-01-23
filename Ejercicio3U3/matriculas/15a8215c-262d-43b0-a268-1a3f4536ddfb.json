@@ -1,0 +1,36 @@
+{
+  "numero": "15a8215c-262d-43b0-a268-1a3f4536ddfb",
+  "estudiante": {
+    "nombre": "Liset",
+    "apellido": "Martinez",
+    "cedula": "0504126378"
+  },
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 11,
+    "minute": 22,
+    "second": 34
+  },
+  "estado": "Registrado",
+  "curso": {
+    "titulo": "Música ",
+    "costo": 30.0
+  },
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 23,
+        "second": 26
+      },
+      "valor": 20.0,
+      "unidad": "I"
+    }
+  ],
+  "promedio": 20.0
+}

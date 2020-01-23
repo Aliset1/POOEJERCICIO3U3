@@ -1,0 +1,117 @@
+[
+  {
+    "carrera": "Ingenieria de Mecatronica",
+    "clubes": [
+      "Club Danza"
+    ],
+    "nombre": "A",
+    "apellido": "V",
+    "cedula": "051"
+  },
+  {
+    "carrera": "Ingenieria de Mecatronica",
+    "clubes": [
+      "Club Danza",
+      "Club Andinismo "
+    ],
+    "nombre": "Sntiago",
+    "apellido": "Fonse",
+    "cedula": "0504129925"
+  },
+  {
+    "carrera": "Ingenieria de Software",
+    "clubes": [
+      "Club Danza",
+      "Club Andinismo "
+    ],
+    "nombre": "Adriana",
+    "apellido": "Vargas",
+    "cedula": "0504129925"
+  },
+  {
+    "carrera": "Ingenieria de Software",
+    "clubes": [
+      "Club Danza",
+      "Club Andinismo "
+    ],
+    "nombre": "Adriana",
+    "apellido": "Vargas",
+    "cedula": "0504129925"
+  },
+  {
+    "carrera": "Ingenieria de Mecatronica",
+    "clubes": [
+      "Club Danza"
+    ],
+    "nombre": "Adriana",
+    "apellido": "Vargas",
+    "cedula": "0504129925"
+  },
+  {
+    "carrera": "Ingenieria de Electronica",
+    "clubes": [
+      "Club Danza"
+    ],
+    "nombre": "Andres",
+    "apellido": "Rivera",
+    "cedula": "0504129925"
+  },
+  {
+    "carrera": "Ingenieria de Mecatronica",
+    "clubes": [
+      "Club Danza",
+      "Club Andinismo "
+    ],
+    "nombre": "Eduard",
+    "apellido": "Romo",
+    "cedula": "050412992"
+  },
+  {
+    "carrera": "Ingenieria de Automotriz",
+    "clubes": [
+      "Club Andinismo "
+    ],
+    "nombre": "Paola",
+    "apellido": "Vargas",
+    "cedula": "050412989"
+  },
+  {
+    "carrera": "Ingenieria de Automotriz",
+    "clubes": [
+      "Club Andinismo "
+    ],
+    "nombre": "Macarena",
+    "apellido": "Armas",
+    "cedula": "05041263"
+  },
+  {
+    "carrera": "Ingenieria de Automotriz",
+    "clubes": [
+      "Club Andinismo ",
+      "Club Futbol"
+    ],
+    "nombre": "Luis",
+    "apellido": "Velasco",
+    "cedula": "0504126369"
+  },
+  {
+    "carrera": "Ingenieria de Automotriz",
+    "clubes": [
+      "Club Andinismo ",
+      "Club Futbol"
+    ],
+    "nombre": "Diego",
+    "apellido": "Velasco",
+    "cedula": "0504126378"
+  },
+  {
+    "carrera": "Ingenieria de Electronica",
+    "clubes": [
+      "Club Andinismo ",
+      "Club Futbol"
+    ],
+    "nombre": "Liset",
+    "apellido": "Martinez",
+    "cedula": "0504126378"
+  }
+]

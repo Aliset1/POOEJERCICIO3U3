@@ -1,0 +1,48 @@
+{
+  "numero": "b7f57e33-d164-4038-a0ca-67d93ebf68ad",
+  "estudiante": {
+    "nombre": "Eduard",
+    "apellido": "Romo",
+    "cedula": "050412992"
+  },
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 11,
+    "minute": 21,
+    "second": 10
+  },
+  "estado": "Registrado",
+  "curso": {
+    "titulo": "Matemática Superior ",
+    "costo": 40.0
+  },
+  "calificaciones": [
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 25,
+        "second": 16
+      },
+      "valor": 18.2,
+      "unidad": "I"
+    },
+    {
+      "fecha": {
+        "year": 2020,
+        "month": 0,
+        "dayOfMonth": 22,
+        "hourOfDay": 11,
+        "minute": 25,
+        "second": 28
+      },
+      "valor": 18.2,
+      "unidad": "II"
+    }
+  ],
+  "promedio": 18.2
+}

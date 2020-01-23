@@ -1,0 +1,29 @@
+{
+  "numero": "d7b31f97-21c0-4d2d-b9cf-74426760f870",
+  "estudiante": {
+    "carrera": "Ingenieria de Software",
+    "clubes": [
+      "Club Danza",
+      "Club Andinismo "
+    ],
+    "nombre": "Adriana",
+    "apellido": "Vargas",
+    "cedula": "0504129925"
+  },
+  "fecha": {
+    "year": 2020,
+    "month": 0,
+    "dayOfMonth": 22,
+    "hourOfDay": 11,
+    "minute": 7,
+    "second": 8
+  },
+  "estado": "Registrado",
+  "curso": {
+    "titulo": "-Seleccione-",
+    "costo": 0.0,
+    "descripcion": ""
+  },
+  "calificaciones": [],
+  "promedio": 0.0
+}
